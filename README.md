@@ -3,7 +3,7 @@
 📚 Berikut adalah ringkasan hasil tugas Saya:
 
 1. File Tugas EMT
-[File Tugas EMT](https://github.com/aliciasalsabilla1705/Alicia_23030630073_Matematika-E/blob/05fae6e602ca4aadae793503d911cc5f6ba65539/23030630073%20Alicia%20Salsabilla%20emt%201-6.en)
+[File Tugas EMT](https://github.com/aliciasalsabilla1705/TES/blob/fe0a370ab0a55abbc11fa7818e98a5b365d3f02e/23030630073%20Alicia%20Salsabilla%20emt%201-6.en)
 
 2. File Tugas EMT format LaTeX
 [File Tugas EMT format LaTeX](https://github.com/aliciasalsabilla1705/Alicia_23030630073_Matematika-E/blob/89f4ec31039a442dd18c91a2ead5687523473fd7/23030630073%20Alicia%20Salsabilla%20emt%201-6.tex)
